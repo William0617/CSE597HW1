@@ -1,5 +1,5 @@
 # PSU CSE597 FALL 2018 Report1
-##Basic Info
+## Basic Info
 1. Author: Wenliang Sun
 2. Date: Sept 24, 2018
 3. Please see license.txt for licensing information
